@@ -1,0 +1,13 @@
+C:\Users\vov4ik90kk\Desktop\Approximator\Approximator\bin\Debug\Approximator.exe.config
+C:\Users\vov4ik90kk\Desktop\Approximator\Approximator\bin\Debug\Approximator.exe
+C:\Users\vov4ik90kk\Desktop\Approximator\Approximator\bin\Debug\Approximator.pdb
+C:\Users\vov4ik90kk\Desktop\Approximator\Approximator\obj\Debug\Approximator.csprojResolveAssemblyReference.cache
+C:\Users\vov4ik90kk\Desktop\Approximator\Approximator\obj\Debug\MainWindow.baml
+C:\Users\vov4ik90kk\Desktop\Approximator\Approximator\obj\Debug\MainWindow.g.cs
+C:\Users\vov4ik90kk\Desktop\Approximator\Approximator\obj\Debug\App.g.cs
+C:\Users\vov4ik90kk\Desktop\Approximator\Approximator\obj\Debug\Approximator_MarkupCompile.cache
+C:\Users\vov4ik90kk\Desktop\Approximator\Approximator\obj\Debug\Approximator.g.resources
+C:\Users\vov4ik90kk\Desktop\Approximator\Approximator\obj\Debug\Approximator.Properties.Resources.resources
+C:\Users\vov4ik90kk\Desktop\Approximator\Approximator\obj\Debug\Approximator.csproj.GenerateResource.Cache
+C:\Users\vov4ik90kk\Desktop\Approximator\Approximator\obj\Debug\Approximator.exe
+C:\Users\vov4ik90kk\Desktop\Approximator\Approximator\obj\Debug\Approximator.pdb

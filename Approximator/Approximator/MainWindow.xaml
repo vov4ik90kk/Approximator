@@ -1,0 +1,35 @@
+﻿<Window x:Class="Approximator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="638" Width="900" Top="50" ResizeMode="NoResize">
+    <Canvas x:Name="main" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"  MouseDown="main_MouseDown" MouseUp="main_MouseUp" Background="White"  MouseMove="main_MouseMove" MouseLeave="main_MouseLeave">
+        <Canvas x:Name="legend" Height="150" Canvas.Right="0" VerticalAlignment="Top" Width="400" Background="White">
+            <Label Content="Least Squares" Height="75" Width="219" Canvas.Right="0" Canvas.Top="0"  FontSize="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+            <Label Content="Lagrange" Height="75" Width="219" Canvas.Right="0" Canvas.Top="75" FontSize="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+            <Line X1="10" X2="190" Y1="40" Y2="40" Stroke="Red" StrokeThickness="3"/>
+            <Line X1="10" X2="190" Y1="115" Y2="115" Stroke="Blue" StrokeThickness="3"/>
+            <Rectangle Canvas.Top="0" Canvas.Left="0" Width="400" Height="154" Stroke="Black" StrokeThickness="4"/>
+        </Canvas>
+        <Canvas x:Name="inputData" Height="150" Canvas.Right="0" Canvas.Top="150" Width="400" Background="White">
+            <Label Content="Input Data" Height="50" Width="400" HorizontalAlignment="Stretch" FontSize="26" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
+            <Rectangle Canvas.Top="0" Canvas.Left="0" Width="400" Height="154" Stroke="Black" StrokeThickness="4"/>
+        </Canvas>
+        <Canvas x:Name="leastSquaresData" Height="150" Canvas.Right="0" Canvas.Top="300" Width="400" Background="White">
+            <Rectangle Canvas.Top="0" Canvas.Left="0" Width="400" Height="154" Stroke="Black" StrokeThickness="4"/>
+            <Label Content="Least Squares Method Values" Height="50" Width="400" HorizontalAlignment="Stretch" FontSize="26" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+
+        </Canvas>
+        <Canvas x:Name="lagrangePolynomialData" Height="150" Canvas.Right="0" Canvas.Top="450" Width="400">
+            <Rectangle Canvas.Top="0" Canvas.Left="0" Width="400" Height="150" Stroke="Black" StrokeThickness="4"/>
+            <Label Content="Lagrange Polynomial Method Values" Height="50" Width="400" HorizontalAlignment="Stretch" FontSize="22" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        </Canvas>
+    </Canvas>
+
+
+
+
+
+
+
+
+</Window>
