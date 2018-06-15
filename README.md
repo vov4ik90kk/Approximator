@@ -1,1 +1,3 @@
-# Approximator
+Владимир Кравчук
++380672262484
+vov4ik90k@gmail.com
